@@ -5,121 +5,144 @@ new Vue({
             type: '',
             lists: [
                 {
-                    index: 10010,
+                    index: 1010,
                     ecosystem: "parachain kusama",
                     name: "karura",
                     token: "KAR",
                     type: "DeFi",
                     link: "https://apps.karura.network/",
-                    description: "swap, colateral & staking"
+                    description: "swap, colateral & staking",
+                    reliability: 9.6
                 },
                 {
-                    index: 10011,
+                    index: 1011,
                     ecosystem: "moonriver",
                     name: "solarbeam",
                     token: "SOLAR",
                     type: "DeFi",
                     link: "https://solarbeam.io/exchange/swap",
-                    description: "swap & yielfarming"
+                    description: "swap & yielfarming",
+                    reliability: 7.2
                 },
                 {
-                    index: 10012,
+                    index: 1012,
                     ecosystem:"moonriver",
                     name: "laika protocol",
                     token: "LAIKA",
                     type: "Memecoin",
                     link: "https://laikaprotocol.com/",
-                    description: "deflationary"
+                    description: "deflationary",
+                    reliability: 8.1
                 },
                 {
-                    index: 10013,
+                    index: 1013,
                     ecosystem: "statemine kusama",
                     name: "rmrk",
                     token: "RMRK",
                     type: "NFT",
                     link: "https://singular.rmrk.app/",
-                    description: "Marketplace"
+                    description: "Marketplace",
+                    reliability: 9.8
                 },
                 {
-                    index: 10014,
+                    index: 1014,
                     ecosystem: "statemine kusama",
                     name: "kanaria rmrk",
                     token: "RMRK",
                     type: "NFT",
                     link: "https://kanaria.rmrk.app/",
-                    description: "Game & collectibles"
+                    description: "Game & collectibles",
+                    reliability: 9.6
                 },
                 {
-                    index: 10015,
+                    index: 1015,
                     ecosystem: "moonriver",
                     name: "saturnbeam",
                     token: "",
                     type: "DeFi",
                     link: "https://saturnbeam.finance/",
-                    description: "yieldfarming optimizer"
+                    description: "yieldfarming optimizer",
+                    reliability: 7.6
                 },
                 {
-                    index: 10016,
+                    index: 1016,
                     ecosystem: "moonriver",
                     name: "moonswap",
                     token: "MOON",
                     type: "DeFi",
                     link: "https://swap.moonswap.in/",
-                    description: "swap"
+                    description: "swap",
+                    reliability: 7.8
                 },
                 {
-                    index: 10017,
+                    index: 1017,
                     ecosystem: "moonriver",
                     name: "moonfarm",
                     token: "MOON",
                     type: "DeFi",
                     link: "https://app.moonfarm.in/",
-                    description: "yieldfarming"
+                    description: "yieldfarming",
+                    reliability: 6.8
                 },
                 {
-                    index: 10018,
+                    index: 1018,
                     ecosystem: "moonriver",
                     name: "moonkafe",
                     token: "KAFE",
                     type: "DeFi",
                     link: "https://moon.kafe.finance/",
-                    description: "yieldfarming"
+                    description: "yieldfarming",
+                    reliability: 6.5
                 },
                 {
-                    index: 10019,
+                    index: 1019,
                     ecosystem: "parachain kusama",
                     name: "moonriver",
                     token: "MOVR",
                     type: "SmartContracts",
                     link: "https://moonbeam.network/networks/moonriver/",
-                    description: "Layer 1.5 ETH/KSM"
+                    description: "Layer 1.5 ETH/KSM",
+                    reliability: 9.5
                 },
                 {
-                    index: 10020,
+                    index: 1020,
                     ecosystem: "statemine kusama",
                     name: "unique network",
                     token: "UNQ",
                     type: "NFT",
                     link: "https://unqnft.io/#/wallet",
-                    description: "Marketplace"
+                    description: "Marketplace",
+                    reliability: 9.4
                 },
                 {
-                    index: 10021,
+                    index: 1021,
                     ecosystem: "parachain kusama",
                     name: "phala network",
                     token: "PHA",
                     type: "SmartContracts",
                     link: "https://phala.network/en/",
-                    description: "Privacy"
+                    description: "Privacy",
+                    reliability: 9.1
                 },
                 {
-                    index: 10022,
+                    index: 1022,
                     ecosystem: "parachain kusama",
                     name: "astar network (Shiden)",
                     token: "SDN",
                     type: "SmartContracts",
                     link: "https://shiden.astar.network/",
-                    description: "Dapps ETH/KSM"
+                    description: "Dapps ETH/KSM",
+                    reliability: 8.9
+                },
+                {
+                    index: 1023,
+                    ecosystem: "moonriver",
+                    name: "1swap",
+                    token: "1SWAP",
+                    type: "DeFi",
+                    link: "https://1swap.fi/",
+                    description: "yieldfarming optimizer",
+                    reliability: 6.7
                 }
             ],
         }

@@ -41,10 +41,11 @@ a:active {
 }
 
 .content {
-  padding-bottom:150px; /* este valor debe ser igual o mayor al alto del pie */
-  padding-left: 7px;
-  padding-right: 7px;
+  
+  padding: 0 7px 150px;
   font-size: 13px;
+  width: 900px;
+  max-width: 100%;
 }
 
 nav li, h1, h4 {
@@ -83,10 +84,7 @@ footer li {
 table {
   margin-top: 30px ;
   border-style: dashed solid;
-  padding: 8px;
-
-  width: 868px;
-  max-width: 100%;
+  width: 100%;
   text-align: left;
 }
 table tr th {
@@ -102,11 +100,12 @@ table tr th, td {
   display: flex;
   height: 120px;
   margin-top: 20px;
+  
 }
 
 .box-1 fieldset {
-  width: 407px;
-  max-width: 100%;
+ // max-width: 100%;
+  width: 100%;
 }
 
 .disclaimer {
