@@ -1,0 +1,245 @@
+[
+    {
+        "index": 0,
+        "ecosystem": "parachain kusama",
+        "name": "karura",
+        "token": "KAR",
+        "type": "DeFi",
+        "link": "https://apps.karura.network/",
+        "nft": "yes"
+    },
+    {
+        "index": 1,
+        "ecosystem": "moonriver",
+        "name": "solarbeam",
+        "token": "SOLAR",
+        "type": "DeFi",
+        "link": "https://solarbeam.io/exchange/swap",
+        "nft":"yes"
+    },
+    {
+        "index": 2,
+        "ecosystem":"moonriver",
+        "name": "laika protocol",
+        "token": "LAIKA",
+        "type": "memecoin",
+        "link": "https://laikaprotocol.com/",
+        "nft": "no"
+    },
+    {
+        "index": 3,
+        "ecosystem": "statemine kusama",
+        "name": "rmrk",
+        "token": "RMRK",
+        "type": "NFT Marketplace",
+        "link": "https://singular.rmrk.app/",
+        "nft": "yes"
+    },
+    {
+        "index": 4,
+        "ecosystem": "statemine kusama",
+        "name": "kanaria rmrk",
+        "token": "RMRK",
+        "type": "game & collectiblkes",
+        "link": "https://kanaria.rmrk.app/",
+        "nft": "yes"
+    },
+    {
+        "index": 5,
+        "ecosystem": "moonriver",
+        "name": "saturnbeam",
+        "token": "",
+        "type": "DeFi (optimized yielfarming)",
+        "link": "https://saturnbeam.finance/",
+        "nft": "no"
+    },
+    {
+        "index": 6,
+        "ecosystem": "moonriver",
+        "name": "moonswap",
+        "token": "MOON",
+        "type": "DEX",
+        "link": "https://swap.moonswap.in/",
+        "nft": "no"
+    },
+    {
+        "index": 7,
+        "ecosystem": "moonriver",
+        "name": "moonfarm",
+        "token": "MOON",
+        "type": "DeFi (yielfarming)",
+        "link": "https://app.moonfarm.in/",
+        "nft": "no"
+    },
+    {
+        "index": 8,
+        "ecosystem": "moonriver",
+        "name": "moonkafe",
+        "token": "KAFE",
+        "type": "DeFi (yielfarming)",
+        "link": "https://moon.kafe.finance/",
+        "nft": "no"
+    },
+    {
+        "index": 9,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 10,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 11,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 12,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 13,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 14,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 15,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 16,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 17,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 18,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 19,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 20,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 21,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 22,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 23,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 24,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 25,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    },
+    {
+        "index": 26,
+        "ecosystem": "",
+        "name": "",
+        "token": "",
+        "type": "",
+        "link": "",
+        "nft": ""
+    }
+]

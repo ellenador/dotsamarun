@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li>
+                    <h1>DotSamaRUN</h1>
+                </li>
+                <li>
+                    <h4>Only networks running</h4>
+                </li>
+            </ul>
+        </nav>
+        <div class="content">
+            <div id="app">
+                <div class="box-1">
+                    <fieldset>
+                        <legend>Ecosystem</legend>
+                        <input type="radio" id="parachain kusama" value="parachain kusama" v-model="ecosystem">
+                        <label for="parachain kusama">Parachain Kusama</label>
+                        <br>
+                        <input type="radio" id="moonriver" value="moonriver" v-model="ecosystem">
+                        <label for="moonriver">Moonriver</label>
+                        <br>
+                        <input type="radio" id="statemine kusama" value="statemine kusama" v-model="ecosystem">
+                        <label for="statemine kusama">Statemine Kusama</label>
+                        <br>
+                        <input type="radio" id="all" value="" v-model="ecosystem">
+                        <label for="all">all</label>
+                        <br>
+                    </fieldset>
+                    <fieldset>
+                        <legend>Type</legend>
+                        <input type="radio" id="all" value="" v-model="type">
+                        <label for="all">all</label>
+                        <br>
+                        <input type="radio" id="DeFi" value="DeFi" v-model="type">
+                        <label for="DeFi">DeFi</label>
+                        <br>
+                        <input type="radio" id="SmartContracts" value="SmartContracts" v-model="type">
+                        <label for="SmartContracts">SmartContracts</label>
+                        <br>
+                        <input type="radio" id="NFT" value="NFT" v-model="type">
+                        <label for="NFT">NFT</label>
+                        <br>
+                        <input type="radio" id="Memecoin" value="Memecoin" v-model="type">
+                        <label for="Memecoin">Memecoin</label>
+                        <br>
+                    </fieldset>
+                </div>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Tokem</th>
+                            <th>Type</th>
+                            <th>Link</th>
+                            <th>Ecosystem</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr v-for="list in filterList">
+                            <td class="capitalize">{{list.name}}</td>
+                            <td>{{list.token}}</td>
+                            <td>{{list.type}}</td>
+                            <td><a :href="list.link" target="_blank">web</a></td>
+                            <td class="capitalize">{{list.ecosystem}}</td>
+                            <td class="capitalize"fmbjkk>{{list.description}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <footer>
+            <div class="disclaimer">
+                <h4>*** Disclaimer ***
+                </h4>
+                <p>* Most projects are investment! we do not give financial advice,
+                    please do your own research.*
+                </p>
+            </div>
+
+            <ul>
+                <li>2021 &copy; DotSamaRUN</li>
+                <li><a href="https://twitter.com/dotsamarun" target="_blank">Twitter</a></li>
+                <li>Donate</li>
+            </ul>
+        </footer>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js"></script>
+    <script src="js/vue.js"></script>
+
+</body>
+
+</html>
