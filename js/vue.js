@@ -203,6 +203,26 @@ new Vue({
                     link: "https://anyswap.exchange/#/router",
                     description: "AMM DEX",
                     reliability: 9.2
+                },
+                {
+                    index: 1030,
+                    ecosystem: "moonriver",
+                    name: "https://moonsama.com/",
+                    token: "",
+                    type: "NFT",
+                    link: "https://moonsama.com/",
+                    description: "Collectibles",
+                    reliability: 9.4
+                },
+                {
+                    index: 1031,
+                    ecosystem: "moonriver",
+                    name: "meter",
+                    token: "",
+                    type: "bridge",
+                    link: "https://passport.meter.io/#/",
+                    description: "Crosschain bridge ETH/MOVR",
+                    reliability:  8.9
                 }
             ],
         }

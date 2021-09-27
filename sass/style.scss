@@ -81,6 +81,9 @@ footer li {
 .t-center {
   text-align: center !important;
 }
+.text-gray {
+  color: rgb(102, 102, 102) !important;
+}
 /***********************************
 ************************************
 ***********************************/
@@ -121,4 +124,15 @@ table tr th, td {
 .disclaimer p {
   margin: 0;
   line-height:3ex
+}
+
+.box-2 {
+  white-space: nowrap;
+  border: 1px dashed;
+  padding: 2px;
+  line-height:20px;
+  //display: block !important;
+}
+li .box-2 {
+  display: inline-block;
 }
