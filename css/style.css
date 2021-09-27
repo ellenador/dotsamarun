@@ -41,7 +41,8 @@ a:active {
 nav li, h1, h4 {
   display: inline;
   margin: 5px;
-  padding: 5px; }
+  padding: 5px;
+  white-space: nowrap; }
 
 footer {
   height: 50px;
@@ -63,6 +64,9 @@ footer li {
 ***********************************/
 .capitalize {
   text-transform: capitalize !important; }
+
+.t-center {
+  text-align: center !important; }
 
 /***********************************
 ************************************

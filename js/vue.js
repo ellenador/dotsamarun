@@ -71,7 +71,7 @@ new Vue({
                     token: "MOON",
                     type: "DeFi",
                     link: "https://swap.moonswap.in/",
-                    description: "swap",
+                    description: "AMM DEX",
                     reliability: 7.8
                 },
                 {
@@ -143,6 +143,56 @@ new Vue({
                     link: "https://1swap.fi/",
                     description: "yieldfarming optimizer",
                     reliability: 6.7
+                },
+                {
+                    index: 1024,
+                    ecosystem: "sora network",
+                    name: "sora",
+                    token: "XOR",
+                    type: "SmartContracts",
+                    link: "https://sora.org/",
+                    description: "multi-banks DeFi",
+                    reliability: 9.6
+                },
+                {
+                    index: 1025,
+                    ecosystem: "sora network",
+                    name: "polkaswap",
+                    token: "PSWAP",
+                    type: "DeFi",
+                    link: "https://polkaswap.io/#/swap",
+                    description: "AMM DEX",
+                    reliability: 9.4
+                },
+                {
+                    index: 1026,
+                    ecosystem: "moonriver",
+                    name: "moonpad",
+                    token: "",
+                    type: "DeFi",
+                    link: "https://ido.moonpad.in/#/",
+                    description: "IDO",
+                    reliability: 8.2
+                },
+                {
+                    index: 1027,
+                    ecosystem: "moonriver",
+                    name: "freeriver",
+                    token: "FREE",
+                    type: "DeFi",
+                    link: "https://freeriver.exchange/#/swap",
+                    description: "AMM DEX",
+                    reliability: 9.1
+                },
+                {
+                    index: 1028,
+                    ecosystem: "moonriver",
+                    name: "neku finance",
+                    token: "PDOGE",
+                    type: "DeFi",
+                    link: "https://neku.io/",
+                    description: "Collateral",
+                    reliability: 8.8
                 }
             ],
         }
