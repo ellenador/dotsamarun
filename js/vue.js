@@ -207,7 +207,7 @@ new Vue({
                 {
                     index: 1030,
                     ecosystem: "moonriver",
-                    name: "https://moonsama.com/",
+                    name: "moonsama",
                     token: "",
                     type: "NFT",
                     link: "https://moonsama.com/",
@@ -219,7 +219,7 @@ new Vue({
                     ecosystem: "moonriver",
                     name: "meter",
                     token: "",
-                    type: "bridge",
+                    type: "Bridge",
                     link: "https://passport.meter.io/#/",
                     description: "Crosschain bridge ETH/MOVR",
                     reliability:  8.9
