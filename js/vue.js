@@ -223,6 +223,16 @@ new Vue({
                     link: "https://passport.meter.io/#/",
                     description: "Crosschain bridge ETH/MOVR",
                     reliability:  8.9
+                },
+                {
+                    index: 1032,
+                    ecosystem: "moonriver",
+                    name: "dragon",
+                    token: "DRAGON",
+                    type: "DeFi",
+                    link: "https://dragon.freeriver.exchange/",
+                    description: "yieldfarming",
+                    reliability:  6.7
                 }
             ],
         }
