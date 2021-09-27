@@ -188,11 +188,21 @@ new Vue({
                     index: 1028,
                     ecosystem: "moonriver",
                     name: "neku finance",
-                    token: "PDOGE",
+                    token: "NEKU",
                     type: "DeFi",
                     link: "https://neku.io/",
                     description: "Collateral",
                     reliability: 8.8
+                },
+                {
+                    index: 1029,
+                    ecosystem: "moonriver",
+                    name: "anyswap",
+                    token: "ANY",
+                    type: "DeFi",
+                    link: "https://anyswap.exchange/#/router",
+                    description: "AMM DEX",
+                    reliability: 9.2
                 }
             ],
         }
