@@ -228,5 +228,25 @@
         "link": "https://zoombies.world/",
         "description": "game & collectibles",
         "reliability":  8.7
+    },
+    {
+        "index": 1033,
+        "ecosystem": "moonriver",
+        "name": "seascape network",
+        "token": "CWS",
+        "type": "NFT",
+        "link": "https://moonriver.seascape.network/index/product.html",
+        "description": "defi game development platform",
+        "reliability":  9.0
+    },
+    {
+        "index": 1034,
+        "ecosystem": "moonriver",
+        "name": "sushi",
+        "token": "SUSHI",
+        "type": "DeFi",
+        "link": "https://app.sushi.com/swap",
+        "description": "AMM DEX",
+        "reliability":  9.4
     }
 ]
