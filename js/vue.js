@@ -217,16 +217,6 @@ new Vue({
                 {
                     index: 1031,
                     ecosystem: "moonriver",
-                    name: "meter",
-                    token: "",
-                    type: "Bridge",
-                    link: "https://passport.meter.io/#/",
-                    description: "Crosschain bridge ETH/MOVR",
-                    reliability:  8.9
-                },
-                {
-                    index: 1032,
-                    ecosystem: "moonriver",
                     name: "dragon",
                     token: "DRAGON",
                     type: "DeFi",
@@ -235,7 +225,7 @@ new Vue({
                     reliability:  6.7
                 },
                 {
-                    index: 1033,
+                    index: 1032,
                     ecosystem: "moonriver",
                     name: "zoombies world",
                     token: "ZOOM",
