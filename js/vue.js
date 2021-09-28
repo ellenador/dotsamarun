@@ -233,6 +233,16 @@ new Vue({
                     link: "https://dragon.freeriver.exchange/",
                     description: "yieldfarming",
                     reliability:  6.7
+                },
+                {
+                    index: 1033,
+                    ecosystem: "moonriver",
+                    name: "zoombies world",
+                    token: "ZOOM",
+                    type: "NFT",
+                    link: "https://zoombies.world/",
+                    description: "game & collectibles",
+                    reliability:  8.7
                 }
             ],
         }

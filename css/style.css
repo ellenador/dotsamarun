@@ -71,6 +71,15 @@ footer li {
 .text-gray {
   color: #666666 !important; }
 
+.mt-3 {
+  margin-top: 20px; }
+
+.w-25 {
+  width: 25%; }
+
+.min-w-250 {
+  min-width: 250px !important; }
+
 /***********************************
 ************************************
 ***********************************/
@@ -117,7 +126,6 @@ li .box-2 {
   display: inline-block; }
 
 .tutorial {
-  margin-top: 20PX;
   display: table; }
 
 .tutorial a {
