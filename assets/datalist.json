@@ -258,5 +258,25 @@
         "link": "https://www.huckleberry.finance/#/swap",
         "description": "AMM DEX",
         "reliability":  8.6
+    },
+    {
+        "index": 1036,
+        "ecosystem": "moonriver",
+        "name": "moonbeans",
+        "token": "BEANS",
+        "type": "NFT",
+        "link": "https://moonbeanstoken.com/",
+        "description": "collectibles",
+        "reliability":  8.9
+    },
+    {
+        "index": 1037,
+        "ecosystem": "moonriver",
+        "name": "relaychain",
+        "token": "RELAY",
+        "type": "DeFi",
+        "link": "https://app.relaychain.com/#/cross-chain-bridge-transfer",
+        "description": "DEX and cross chain",
+        "reliability":  8.9
     }
 ]
