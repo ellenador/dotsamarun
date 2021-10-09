@@ -53,7 +53,7 @@
         "index": 1015,
         "ecosystem": "moonriver",
         "name": "saturnbeam",
-        "token": "",
+        "token": "SAT",
         "type": "DeFi",
         "link": "https://saturnbeam.finance/",
         "description": "yieldfarming optimizer",
