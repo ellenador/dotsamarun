@@ -248,5 +248,15 @@
         "link": "https://app.sushi.com/swap",
         "description": "AMM DEX",
         "reliability":  9.4
+    },
+    {
+        "index": 1035,
+        "ecosystem": "moonriver",
+        "name": "Huckleberry",
+        "token": "FINN",
+        "type": "DeFi",
+        "link": "https://www.huckleberry.finance/#/swap",
+        "description": "AMM DEX",
+        "reliability":  8.6
     }
 ]
