@@ -93,6 +93,9 @@ table tr th {
   color: #afafaf;
   font-size: 16px; }
 
+table tr:hover {
+  background: #2424243d; }
+
 table tr th, td {
   border-bottom: 1px solid #3d3d3d;
   padding: 3px; }

@@ -106,6 +106,9 @@ table tr th {
   color: rgb(175, 175, 175);
   font-size: 16px;
 }
+table tr:hover {
+  background: #2424243d;
+}
 table tr th, td {
   border-bottom: 1px solid rgb(61, 61, 61);
   padding: 3px;
